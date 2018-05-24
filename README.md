@@ -9,8 +9,9 @@
 
 ## 2016
 
+
 #### [Detection of subconscious face recognition using consumer-grade brain-computer interfaces](martin2016.md)
-> M V Martin, V Cho, G Aversano
+> M V Martin, V Cho, G Aversano<br>
 > ACM Transactions on Applied Perception, Vol. 14, Article 7
 
 ---
@@ -18,7 +19,6 @@
 ## 2012
 
 #### [Combining features from ERP components in single-trial EEG for discriminating four-category visual objects](wang2012.md)
-> Changming Wang et al
+> Changming Wang et al<br>
 > J. Neural Eng., Volume 9
-
 
