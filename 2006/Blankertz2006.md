@@ -10,7 +10,7 @@ This paper is a short letter describing a particular technique showing off a men
 
 The challenge of the mental typewriter is to map a small number of BCI control states (typically two) to the high number of symbols (e..g 26 letters in English alphabet + punctuation). The typewriter presents the English alphabet within a series of hexagons, as shown below.
 
-![](C:\Users\dibg280\Dropbox\Research\Projects\NIML\Documents\hci-papers-summaries\2006\Figures\hex-o-spell.png)
+![](C:\Users\dibg280\Dropbox\Research\Projects\NIML\Documents\hci-papers-summaries\2006\Figures\Blankertz2006-hex-o-spell.png)
 
 There is six hexagon fields surrounding a circle, with five letters in each of them. The arrow in the center of the circle is used to select one of the hexagons. The arrow is controlled using two mental states, recorded using EEG: 
 
