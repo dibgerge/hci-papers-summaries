@@ -1,6 +1,6 @@
 # Berlin Brain-Computer Interface presents the novel mental typewriter Hex-o-Spell 
 
-> **Authors**: Benjamin Blankertz
+> **Authors**: Benjamin Blankertz<br>
 > **Publication Date**: 2006
 
   
