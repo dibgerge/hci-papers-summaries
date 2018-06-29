@@ -22,3 +22,7 @@
 > Changming Wang et al<br>
 > J. Neural Eng., Volume 9
 
+## 2006
+
+#### [The Berlin Brain-Computer Interface presents the novel mental typewriter Hex-o-Spell](Blankertz2006)
+> Benjamin Blankertz et al. <br>
