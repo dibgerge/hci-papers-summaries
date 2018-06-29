@@ -24,5 +24,5 @@
 
 ## 2006
 
-#### [The Berlin Brain-Computer Interface presents the novel mental typewriter Hex-o-Spell](2006/Blankertz2006)
+#### [The Berlin Brain-Computer Interface presents the novel mental typewriter Hex-o-Spell](2006/Blankertz2006.md)
 > Benjamin Blankertz et al. <br>
