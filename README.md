@@ -8,6 +8,10 @@
 
 ## 2016
 
+#### [Surprise responses in the human brain demonstrate statistical learning under high concurrent cognitive demand](2016/garrido2016.md)
+> Marta Isabel Garrido, Chee Leong James Teng, Jeremy Alexander Taylor, Elise Genevieve Rowe, Jason Brett Mattingley<br>
+> Science of Learning, 1, 16006
+
 
 #### [Detection of subconscious face recognition using consumer-grade brain-computer interfaces](2016/martin2016.md)
 > M V Martin, V Cho, G Aversano<br>
